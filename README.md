@@ -1,4 +1,4 @@
-# Curso de QGIS 3
+# Curso Básico de QGIS 3.X
 
 ![](img/portada_curso_vf1.png)
 ## Introducción
